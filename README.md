@@ -1,37 +1,5 @@
 # Riverpod Learning App
 
-<style>
-  .phone-frame {
-    width: 300px; 
-    height: 600px; 
-    border: 16px black solid;
-    border-top: 60px black solid;
-    border-bottom: 60px black solid;
-    border-radius: 36px;
-    overflow: hidden;
-    position: relative;
-    background: white;
-  }
-
-  .phone-frame:before {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 10px;
-    left: 50%;
-    width: 60px;
-    height: 5px;
-    background: #333;
-    border-radius: 10px;
-    transform: translateX(-50%);
-  }
-
-  .phone-frame img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-</style>
 
 
 ![app cover](https://github.com/Yacine300/riverpod-learning-app/blob/main/cover.png)
