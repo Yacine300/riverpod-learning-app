@@ -1,10 +1,4 @@
 # Riverpod Learning App
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 3597cbe8baf49796bfbf22efc441f51a99daa76c
-
 ![app cover](https://github.com/Yacine300/riverpod-learning-app/blob/main/cover.png)
 
 Welcome to the Riverpod Learning App! This application is designed to help developers learn and understand the various types of providers available in Riverpod, a popular state management library for Flutter.
